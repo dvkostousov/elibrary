@@ -9,13 +9,13 @@
 git clone https://github.com/dvkostousov/elibrary.git
 cd elibrary
 ```
-2. Запуск приложения
+2. Запуск приложения\
 Для запуска приложения используйте команду Maven:
 ```bash
 mvn spring-boot:run
 ```
 После этого приложение будет доступно по адресу `http://localhost:8080`.
 
-5. Доступ к Swagger UI
+3. Доступ к Swagger UI
 Swagger UI будет доступен по следующему URL:
 `http://localhost:8080/swagger-ui/index.html`
